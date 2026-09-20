@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0dc2a40e3ae1de4d94c9ad42",
+  "owner": "qkdt9ecd6c",
+  "repo": "page-d849b8bf99a2b3fd4c5ef49d",
+  "title": "fnf",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d849b8bf99a2b3fd4c5ef49d",
+      "a": "fnf",
+      "b": "2027最新官网",
+      "entity": "fnf",
+      "brand": "fnf",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f5aacf3e1ec1c7ec5d04192548a37d86511ad7ffdca4a8e09d867bf84aa50904",
+      "content": {
+        "primary_entity": "fnf",
+        "keyword1": "fnf",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，桌面端、移动端与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期提供三档选择：基础版适合单人轻量使用，旗舰版支持五台设备并优化游戏专线，团队版面向多设备高流量场景。选择时先确认日常在线设备数与月均流量，再对比月付与年付成本，按客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度到订阅周期，逐项匹配实际使用场景。",
+          "AI_FEATURES_TITLE": "套餐对比维度",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按实际在线设备数选择。",
+          "AI_FEATURE_TEXT_2": "月流量从100GB到1000GB分档，重度流媒体与下载需求选更高档位。",
+          "AI_FEATURE_TEXT_3": "年付价格低于按月累计，长期使用可选年付方案控制成本。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到可用的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "fnf 海外加速器提供三档订阅方案，覆盖个人轻量使用到团队多设备场景。根据设备数量与流量需求选择基础版、旗舰版或团队版，再按对应客户端文档配置订阅，即可在不同设备上使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数与流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。流量与设备数随档位递增，可按使用规模直接对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与节点类型，确认满足使用要求。",
+          "AI_STEP_TEXT_3": "依照对应设备客户端文档导入订阅信息，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "fnf 海外加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "fnf 有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备且支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_2": "在对应客户端中新建订阅配置，粘贴订阅链接并更新节点列表，再选择延迟合适的节点连接。具体步骤以客户端文档为准。",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "同时在线数取决于套餐：基础版3台，旗舰版5台，团队版20台。超出数量时新设备可能无法同时连接。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付价格更省，例如基础版年付¥150、旗舰版年付¥350、团队版年付¥850。年付一次性支付，流量仍按月计算。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC专线侧重游戏加速与低延迟需求，适合对连接稳定性较敏感的用户，同时旗舰版提供原生流媒体解锁与优先工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fahrdfh.cn",
+    "host": "fahrdfh.cn"
+  },
+  "file_hashes": {
+    "index.html": "49486b1bded24eb934e2c7252e3cb419f205af517bcdf68c86667ca1f534d9e7",
+    "sitemap.xml": "b38e0bb280ed4d910ac840087f4c0c8137a459ea4790b5f3912936c983c3b5b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "44ffc3da9a17fe5ef582f8b9acd1c4bb02be1b5a230f3fd3a71fc2abcc452315",
+    "robots.txt": "ddc83b9ef159bb1e6cab63146a44ebd7e8a0a793b41ddc139e37a714acbaa646",
+    "a00987a6eca7b5052780e61bf062969e.txt": "07e057b4a5ac559370a4841bf8dd38e63a6c3190f35669133900ff456629a1af"
+  },
+  "revision": "267b263533c7e03e86e2608262cde3b6a148759792e0b55086c1a6f8aa9713c9"
+}
